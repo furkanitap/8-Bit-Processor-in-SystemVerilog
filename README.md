@@ -1,7 +1,7 @@
 # 8 Bit Single Cycle Processor in System Verilog
 
 This is the endsem project of fourth term in EU. A simple 8 bit processor with 16 bit instruction set. This al includes some extra circuit elements we did throught the semester
-(NBitFullAdder, flop, XOR and 4 input mux).
+(NBitFullAdder, flop, XOR and 4 input mux). Special thanks to axel223 for his repository.
 
 This processor consists of these parts: 
 ###### Program Counter: One 8-bit register
